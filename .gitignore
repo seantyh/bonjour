@@ -1,1 +1,7 @@
+.ipynb_checkpoints/
 data/mc4_trad_chinese_train_000_of_16.jsonl.gz
+data/bert_traces
+data/traces
+data/bonjour-tlds
+data/ctx-vocab.txt
+
